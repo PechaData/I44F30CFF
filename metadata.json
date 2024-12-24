@@ -32,7 +32,13 @@
       {
         "source": "tests/pecha/coordinate_normalisation/commentary/data/P2/IA6ED8F68/layers/CCF2/English_Segment-E433.json",
         "transfered": "tests/pecha/coordinate_normalisation/commentary/data/P1/I44F30CFF/layers/9829/English_Segment-E433.json"
-      }
+      },
+      [
+        {
+          "source": "tests/pecha/coordinate_normalisation/commentary/data/P2/IA6ED8F68/layers/CCF2/English_Segment-E433.json",
+          "transfered": "tests/pecha/coordinate_normalisation/commentary/data/P1/I44F30CFF/layers/9829/English_Segment-E433.json"
+        }
+      ]
     ]
   },
   "bases": [
